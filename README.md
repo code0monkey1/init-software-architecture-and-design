@@ -9,6 +9,6 @@
 
 >People  use Vehicles and Vehicle manufacturing can be affected by a change in the environment laws .
 
-**( IS a Relationship)  A car  -> is a kind of -> Vehicle  
-(Association Relationship) People-> drive ->Vehicles   
-(Dependency Relationship ) Environment Laws -> affect -> Vehicles **
+1. **IS a Relationship** :  A car  -> is a  -> Vehicle  
+2. **Association Relationship** : People-> drive ->Vehicles   
+3. **Dependency Relationship** : Environment Laws -> affect -> Vehicles ( How they are produced , in terms of pollution control)
