@@ -7,9 +7,9 @@
 ![All UML  Diagrams](./pics/diagrams.jpg "Structural and Behavioral Diagrams")
 
 ------------------------------------------------
- >Verbs help us in defining the relationsips between different UML Classes.
 
 ### \# Case : People , Vehicles and Pollution Laws
+ >Verbs help us in defining the relationsips between different UML Classes.
 
 >People drive Vehicles , and Vehicle manufacturing can be affected by a change in the pollution laws .
 
