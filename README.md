@@ -17,3 +17,11 @@
 1. **IS a Relationship** :  A car  -> is a  -> Vehicle  
 2. **Association Relationship** : People-> drive ->Vehicles   
 3. **Dependency Relationship** : Pollution  Laws -> affect -> Vehicles ( How they are produced , in terms of pollution control laws)
+  
+
+---
+
+### \# OOAD : Library Management System
+
+![Library Management System Use Case](./pics/ooad-question-1.jpg "Library Management System")
+
