@@ -1,4 +1,4 @@
 # init-software-architecture-and-design
  Software Architecture and Design Concepts
 
-[OOAD Steps](./pics/ooa-steps.jpg)
+![OOADSteps](./pics/ooa-steps.jpg "The steps in OOA")
