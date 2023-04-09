@@ -37,3 +37,5 @@
     
 
 ### \# OOAD : College Enrolment System 
+
+ ![College Enrolment System](./pics/enrolment-system.jpg "College Enrolment System")
