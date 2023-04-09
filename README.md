@@ -29,7 +29,7 @@
 
 #### There are 2 types of `Operations` that can be performed by the defined Classes
 
-+ **Pure Operations** : `Query Operations that don't state the change of any object` 
++ **Pure Operations** : `Query Operations that don't state the change of any object` (Checking , Querying for information , without causing any side effects)
 + **Mutating Operations** : `Mutating Operations that change the state of objects`  
     + _These have 2 condition attributes_:  
         1. Pre-Conditions:  What should be true for this operation to be executed ( eg. Book must be available , to be issued)  
