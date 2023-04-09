@@ -30,7 +30,8 @@
 #### There are 2 types of `Operations` that can be performed by the defined Classes
 
 + **Pure Operations** : `Query Operations that don't state the change of any object` 
-+ **Mutating Operations** : `Mutating Operations that change the state of objects`
-      These have 2 conditions:
-        1. PreCondions:
-        2. PostConditions:
++ **Mutating Operations** : `Mutating Operations that change the state of objects`  
+    + _These have 2 condition attributes_:  
+        1. Pre-Conditions:  What should be true for this operation to be executed
+        1. Post-Conditions: What should mutate after this operation is executed
+    
