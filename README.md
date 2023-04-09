@@ -31,3 +31,6 @@
 
 + **Pure Operations** : `Query Operations that don't state the change of any object` 
 + **Mutating Operations** : `Mutating Operations that change the state of objects`
+      These have 2 conditions:
+        1. PreCondions:
+        2. PostConditions:
