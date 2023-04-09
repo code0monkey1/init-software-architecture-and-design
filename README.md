@@ -25,3 +25,9 @@
 ![Library Management System Use Case](./pics/ooad-question-1.jpg "Library Management System")
 
 ![OOADSteps](./pics/ooa-steps.jpg "The steps in OOA")
+
+
+#### There are 2 types of `Operations` that can be performed by the defined Classes
+
++ **Pure Operations** : `Query Operations that don't state the change of any object` 
++ **Mutating Operations** : `Mutating Operations that change the state of objects`
