@@ -32,6 +32,6 @@
 + **Pure Operations** : `Query Operations that don't state the change of any object` 
 + **Mutating Operations** : `Mutating Operations that change the state of objects`  
     + _These have 2 condition attributes_:  
-        1. Pre-Conditions:  What should be true for this operation to be executed
-        1. Post-Conditions: What should mutate after this operation is executed
+        1. Pre-Conditions:  What should be true for this operation to be executed ( eg. Book must be available , to be issued)  
+        1. Post-Conditions: What should mutate after this operation is executed ( eg. after a book is returned , the person who might have requested the book should be e-mailed.)
     
