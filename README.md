@@ -20,6 +20,8 @@
 1. Dependency: Dependency is a relationship between two classes, where one class depends on the other class to perform its function. This relationship is usually temporary and can change over time.
 
 1. Realization: Realization is a relationship between a class and an interface, where the class implements the methods defined in the interface.
+
+---
 ### \# Case : Relationships between People , Vehicles and Pollution Laws
  >Verbs help us in defining the relationsips between different UML Classes.
 
