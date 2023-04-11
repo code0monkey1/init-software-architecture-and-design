@@ -7,18 +7,19 @@
 ![All UML  Diagrams](./pics/diagrams.jpg "Structural and Behavioral Diagrams")
 
 ---
-> ### Types of Relationships between Classes in OOAD
-Inheritance: Inheritance is a relationship between a superclass and a subclass, where the subclass inherits the properties and methods of the superclass. The subclass can also add new properties and methods or override the properties and methods of the superclass.
+ ### Types of Relationships between Classes in OOAD
 
-Composition: Composition is a relationship between a whole and its parts, where the parts cannot exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables.
+1. Inheritance: Inheritance is a relationship between a superclass and a subclass, where the subclass inherits the properties and methods of the superclass. The subclass can also add new properties and methods or override the properties and methods of the superclass.
 
-Aggregation: Aggregation is a relationship between a whole and its parts, where the parts can exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables, but the instances can exist independently of the containing class.
+1. Composition: Composition is a relationship between a whole and its parts, where the parts cannot exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables.
 
-Association: Association is a relationship between two classes, where one class uses or interacts with the other class. This relationship can be one-to-one, one-to-many, or many-to-many.
+1. Aggregation: Aggregation is a relationship between a whole and its parts, where the parts can exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables, but the instances can exist independently of the containing class.
 
-Dependency: Dependency is a relationship between two classes, where one class depends on the other class to perform its function. This relationship is usually temporary and can change over time.
+1. Association: Association is a relationship between two classes, where one class uses or interacts with the other class. This relationship can be one-to-one, one-to-many, or many-to-many.
 
-Realization: Realization is a relationship between a class and an interface, where the class implements the methods defined in the interface.
+1. Dependency: Dependency is a relationship between two classes, where one class depends on the other class to perform its function. This relationship is usually temporary and can change over time.
+
+1. Realization: Realization is a relationship between a class and an interface, where the class implements the methods defined in the interface.
 ### \# Case : Relationships between People , Vehicles and Pollution Laws
  >Verbs help us in defining the relationsips between different UML Classes.
 
