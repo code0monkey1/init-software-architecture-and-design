@@ -46,3 +46,9 @@
 
 
  ![Kindle Clone](./pics/online-cloud-reading-app.jpg "A Kindle like document reader")
+
+---
+
+ ### \# OOAD : Vending Machine
+
+ !
