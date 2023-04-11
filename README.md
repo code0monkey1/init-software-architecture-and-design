@@ -51,4 +51,4 @@
 
  ### \# OOAD : Vending Machine
 
- !
+  ![Vending Machine](./pics/vendingMachine.jpg "OOAD for A Vending Machine")
