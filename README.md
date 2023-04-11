@@ -9,9 +9,9 @@
 ---
  ### Types of Relationships between Classes in OOAD
 
-1. Inheritance: Inheritance is a relationship between a superclass and a subclass, where the subclass inherits the properties and methods of the superclass. The subclass can also add new properties and methods or override the properties and methods of the superclass.
+1. Inheritance (Is-A): Inheritance is a relationship between a superclass and a subclass, where the subclass inherits the properties and methods of the superclass. The subclass can also add new properties and methods or override the properties and methods of the superclass.
 
-1. Composition: Composition is a relationship between a whole and its parts, where the parts cannot exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables.
+1. Composition (Has-A): Composition is a relationship between a whole and its parts, where the parts cannot exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables.
 
 1. Aggregation: Aggregation is a relationship between a whole and its parts, where the parts can exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables, but the instances can exist independently of the containing class.
 
