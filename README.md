@@ -7,19 +7,26 @@
 ![All UML  Diagrams](./pics/diagrams.jpg "Structural and Behavioral Diagrams")
 
 ---
+
+## What does the process of OOA involve ?
+
+> After you're presented with a document ( story ), expressing the way the system is supposed to function , your job is to identify the following before formulating the software system architecture .
+
+![OOA process ](./pics/ooa.jpg "OOA process")
+
  ### Types of Relationships between Classes in OOAD
 
 1. Inheritance (Is-A): Inheritance is a relationship between a superclass and a subclass, where the subclass inherits the properties and methods of the superclass. The subclass can also add new properties and methods or override the properties and methods of the superclass.
 
-1. Composition (Has-A): Composition is a relationship between a whole and its parts, where the parts cannot exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables.
+2. Composition (Has-A): Composition is a relationship between a whole and its parts, where the parts cannot exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables.
 
-1. Aggregation: Aggregation is a relationship between a whole and its parts, where the parts can exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables, but the instances can exist independently of the containing class.
+3. Aggregation: Aggregation is a relationship between a whole and its parts, where the parts can exist without the whole. In this relationship, a class contains one or more instances of another class as its member variables, but the instances can exist independently of the containing class.
 
-1. Association: Association is a relationship between two classes, where one class uses or interacts with the other class. This relationship can be one-to-one, one-to-many, or many-to-many.
+4. Association: Association is a relationship between two classes, where one class uses or interacts with the other class. This relationship can be one-to-one, one-to-many, or many-to-many.
 
-1. Dependency: Dependency is a relationship between two classes, where one class depends on the other class to perform its function. This relationship is usually temporary and can change over time.
+5. Dependency: Dependency is a relationship between two classes, where one class depends on the other class to perform its function. This relationship is usually temporary and can change over time.
 
-1. Realization: Realization is a relationship between a class and an interface, where the class implements the methods defined in the interface.
+6. Realization: Realization is a relationship between a class and an interface, where the class implements the methods defined in the interface.
 
 ---
 ### \# Case : Relationships between People , Vehicles and Pollution Laws
