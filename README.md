@@ -57,6 +57,11 @@
 
 ---
 
+![Library UML Solution](./pics/library-uml.png "Library UML Solution")
+
+
+---
+
 ### \# OOAD : College Enrolment System 
 
  ![College Enrolment System](./pics/enrolment-system.jpg "College Enrolment System")
