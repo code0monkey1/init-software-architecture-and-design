@@ -14,6 +14,10 @@
 
 ![OOA process ](./pics/ooa.jpg "OOA process")
 
+---
+
+![OOASteps](./pics/ooa-steps.jpg "The steps in OOA")
+
  ### Types of Relationships between Classes in OOAD
 
 1. Inheritance (Is-A): Inheritance is a relationship between a superclass and a subclass, where the subclass inherits the properties and methods of the superclass. The subclass can also add new properties and methods or override the properties and methods of the superclass.
@@ -40,7 +44,6 @@
   
 ---
 
-![OOADSteps](./pics/ooa-steps.jpg "The steps in OOA")
 
 #### There are 2 types of `Operations` that can be performed by the defined Classes
 
